@@ -1,0 +1,37 @@
+{
+  "name": "create-eleact-app",
+  "version": "0.1.1",
+  "description": "Set up cross-platform app with Electron and React",
+  "keywords": [
+    "react",
+    "electron",
+    "cross-platform"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sellectuwa/create-eleact-app.git"
+  },
+  "main": "index.js",
+  "bin": {
+    "create-eleact-app": "./src/index.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.28.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "commander": "^7.2.0",
+    "execa": "^5.1.1",
+    "fs-extra": "^10.0.0",
+    "ora": "^5.4.1",
+    "prompts": "^2.4.1",
+    "replace-in-file": "^6.2.0",
+    "simple-git": "^2.40.0"
+  }
+}
