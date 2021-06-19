@@ -16,6 +16,6 @@ npm start
 
 ## Plans for future
 * TypeScript support
-* Simplify the configuration by creating a separate library that will handle scripts (similar to react-scritps)
+* Simplify the configuration by creating a separate library that will handle scripts (similar to react-scripts)
 * Documentation
 * More frameworks support (Vue, Angular, etc.)
