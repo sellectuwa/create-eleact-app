@@ -32,6 +32,6 @@
     "ora": "^5.4.1",
     "prompts": "^2.4.1",
     "replace-in-file": "^6.2.0",
-    "simple-git": "^2.40.0"
+    "simple-git": "^3.5.0"
   }
 }
